@@ -10,6 +10,13 @@
       "version": "1.0.0",
       "shasum": "0be44c85c122a410f679867bb6d9d87aa4321483",
       "released": "2020-05-02T11:04:58.659Z"
+    },
+    "2.0.0": {
+      "id": "https://schema.wedgybo.co.uk/wedgybo/sample-project-a/name/2.0.0/name.json",
+      "key": "wedgybo/sample-project-a/name/2.0.0/name.json",
+      "version": "2.0.0",
+      "shasum": "a770756073733ffdc641cc15efddc7ba8854f048",
+      "released": "2020-05-02T11:09:37.065Z"
     }
   }
 }
