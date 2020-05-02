@@ -1,0 +1,13 @@
+{
+  "id": "wedgybo/schema",
+  "organisation": "wedgybo",
+  "name": "schema",
+  "url": "https://schema.wedgybo.co.uk",
+  "backend": {
+    "type": "github",
+    "html_url": "https://github.com/wedgybo/schema",
+    "ssh_url": "git@github.com:wedgybo/schema.git",
+    "owner": "wedgybo",
+    "name": "schema"
+  }
+}
